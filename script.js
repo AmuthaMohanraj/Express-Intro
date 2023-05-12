@@ -66,9 +66,6 @@ app.get('/:id',(req,res)=>{
 
 
 
-
-
-
 //querystring method is like key and values
 // syntax for this string query using this ?key=value
 // ?key=value&key='value'
